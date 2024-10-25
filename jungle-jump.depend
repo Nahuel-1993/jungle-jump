@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729867300 source:c:\users\nahue\onedrive\documentos\utn\materias\programacion\prog 2\tp final\jungle-jump\main.cpp
+	<iostream>
+	"menu.h"
+
+1729867300 c:\users\nahue\onedrive\documentos\utn\materias\programacion\prog 2\tp final\jungle-jump\menu.h
+
+1729867300 source:c:\users\nahue\onedrive\documentos\utn\materias\programacion\prog 2\tp final\jungle-jump\menu.cpp
+	<iostream>
+	"menu.h"
+
