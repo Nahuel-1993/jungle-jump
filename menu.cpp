@@ -10,6 +10,7 @@ void menu()
     cout<< "1 - UN JUGADOR" << endl;
     cout<< "2 - DOS JUGADORES" << endl;
     cout<< "0 - SALIR" << endl;
+    cout<< "Prueba commit" << endl;
 
     cin>> opcion;
 
